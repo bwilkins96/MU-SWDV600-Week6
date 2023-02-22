@@ -1,3 +1,6 @@
+# Processes vending machine data from JSON files and produces a sortable report 
+# on beverages in the machines, including amount sold and current stock
+
 from json import loads
 from inventory_item import InventoryItem
 
